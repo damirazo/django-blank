@@ -1,0 +1,21 @@
+{
+  "system": {
+    "development": {
+      "debug": "true",
+      "allowed_hosts": ["127.0.0.1"]
+    },
+    "secret_key": "dfgdfgdfg",
+    "apps": [],
+    "middlewares": [],
+    "databases": {
+      "default": {
+        "engine": "",
+        "name": "",
+        "host": "",
+        "port": "",
+        "user": "",
+        "password": ""
+      }
+    }
+  }
+}
